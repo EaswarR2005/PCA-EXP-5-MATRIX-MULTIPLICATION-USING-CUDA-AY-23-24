@@ -2,7 +2,7 @@
 <h3>ENTER YOUR NAME : EASWAR R</h3>
 <h3>ENTER YOUR REGISTER NO :212223230053</h3>
 <h3>EX.NO: 05</h3>
-<h3>DATE :28/10/2025</h3>
+<h3>DATE :23/10/2025</h3>
 <h1> <align=center> MATRIX MULTIPLICATION USING CUDA </h3>
   Implement Matrix Multiplication using GPU.</h3>
 
